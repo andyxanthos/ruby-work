@@ -7,3 +7,4 @@ def uniques(arr)
 end
 
 puts uniques([1, 5, "frog", 2, 1, 3, "frog"])
+# => [1, 5, "frog", 2, 3]
