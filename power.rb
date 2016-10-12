@@ -7,3 +7,4 @@ def power(base, exponent)
 end
 
 puts power(3,4)
+# => 81
